@@ -1,0 +1,15 @@
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Application.deps.json
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Application.dll
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Application.pdb
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Domain.dll
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\bin\Debug\net8.0\PostLand.Domain.pdb
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.AssemblyReference.cache
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.AssemblyInfoInputs.cache
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.AssemblyInfo.cs
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.csproj.CoreCompileInputs.cache
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.A51583D8.Up2Date
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.dll
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\refint\PostLand.Application.dll
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\PostLand.Application.pdb
+D:\mes projets\.Net\PostLand\PostLand\PostLand.Application\obj\Debug\net8.0\ref\PostLand.Application.dll
